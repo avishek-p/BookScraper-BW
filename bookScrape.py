@@ -54,7 +54,8 @@ def scrape_book(url):
         price = price_text[1:]
 
         insert_book(title, currency, price)
-
+        
+# git tutorial       
 # git config --global user.name "Avishek Pradhan"
 # git config --global user.email "avishekmpradhan@outlook.com"
 
