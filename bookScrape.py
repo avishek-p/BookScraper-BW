@@ -59,5 +59,26 @@ def scrape_book(url):
 # git config --global user.name "Avishek Pradhan"
 # git config --global user.email "avishekmpradhan@outlook.com"
 
+# install git
+# create repository in github
+
+# go to git bash
+# git config --global user.name "Avishek Pradhan"
+# git config --global user.email "avishekmpradhan@outlook.com"
+
+# git init
+# git status => check the current status of the files
+# git diff => changes made
+# git add. 
+# git commit -m "Your changes to the code"
+# create git repository
+# push an existing repository from the command line
+
+# always use this steps after code change
+# git add.
+# git commit - "Changes to the code"
+# git push origin
+
+
 create_database()
 scrape_book(URL)
