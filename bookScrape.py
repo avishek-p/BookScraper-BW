@@ -79,6 +79,7 @@ def scrape_book(url):
 # git commit - "Changes to the code"
 # git push origin
 
+# checking branch commit
 
 create_database()
 scrape_book(URL)
